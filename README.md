@@ -7,5 +7,5 @@ Uses the python library beautifulsoup and runs in terminal
 
 Run it in the command line by 
 ```Python
-python quotescraper
+python quotescraper.py
 ```
